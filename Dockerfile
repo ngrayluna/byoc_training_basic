@@ -1,6 +1,6 @@
 FROM python:3.6-stretch
 
-LABEL maintainer="noah.son.luna@gmail.com"
+LABEL maintainer="noahluna@amazon.com"
 
 # install build utilities
 RUN apt-get update && \
